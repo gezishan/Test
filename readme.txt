@@ -5,7 +5,7 @@ Git tracks changes of files.
 Creating a new branch is quick.
 Branch test.
 <<<<<<< HEAD
-Creating a new branch is quick and simple.
+Creating a new branch is quick and simple.aaaa
 =======
 Creating a new branch is quick and simple.fdfdf
 >>>>>>> feature1
