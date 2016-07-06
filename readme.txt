@@ -6,4 +6,3 @@ Creating a new branch is quick.
 Branch test.
 Creating a new branch is quick and simple.
 Add merge.
-Loading...
